@@ -1,0 +1,27 @@
+Longbow Server Documentation
+============================
+
+I decided that releasing something so complicated and customisable :D, and with the scripting,
+i thought u lot would be better off with some documentation to help u :), but u're all VB
+coders so i don't think anything should be a problem for u 2 solve :)
+
+Installing
+==========
+
+Ok, look for the readme.txt file, its in there somewhere :), and run the setup.bat file, this
+will copy the dlls needed to your system folder, its hard coded for
+C:\windows\system, so u mite have to change something there. After that, open up the project
+in VB, anyway, run the program and u should see it, a big black thing with helpings
+of green text :)
+
+Scripting
+=========
+
+This is probably the section i like the most, coz i spent so F***ing long on it :)
+look around at the cgi-bin dir, i think theres a good helping of scripting in there
+to help you figure out how to use it :)
+
+If you think i should make some big fat wedge of html help files on the scripting, then
+tell me,  dj_fuzzy_beast@hotmail.com.
+
+and don't forget, VOTE FOR ME!!! :D
