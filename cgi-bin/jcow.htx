@@ -1,0 +1,11 @@
+<html>
+<title>Is2e Encryption/Decryption Test</title>
+<body>
+<form method=post action=jwacky.cgi>
+<b>Enter The Text You Want To Decode
+<input type=text name=data maxlength=200>
+<input type=hidden name=method value=set>
+<input type=submit value="Click Me">
+</form>
+</body>
+</html>
